@@ -40,9 +40,19 @@ _____________
 ![filogenia 1](https://github.com/CrisValdebenito/lab.bioinf/blob/master/phylo_tree.png "Filogenia N°1")
 
 
+***Filogenia n°1S: ProbCons, sin Alignment curation, MrBayes, y TreeDyn***
+
+![Filogenia 1S](https://github.com/CrisValdebenito/lab.bioinf/blob/master/filo%201%20sin%20aC.png "")
+
+
 ***Filogenia n°2: ClustalW, "Remove positions with gaps", TNT, y TreeDyn***
 
 ![filogenia 2](https://github.com/CrisValdebenito/lab.bioinf/blob/master/img2.png "Filogenia N°2")
+
+***Filogenia n°2S: ClustalW, sin Aligment curation, TNT, y TreeDyn***
+
+![Filogenia 2S](https://github.com/CrisValdebenito/lab.bioinf/blob/master/filo%202%20sin%20AC.png "")
+
 
 
 
@@ -58,7 +68,7 @@ _____________
 
 3. Corre de nuevo las filogenias pero esta vez sin *Alignment curation*. ¿Cuál es el efecto en las filogenias?
 
-        Al desactivar ‘aligment curation’ la filogenia varia parcialmente, enlazando nuevas especies y variando de número de división de estos. Al compararlo por la filogenia realizada anteriormente esta varia, pero no completamente ya que se mantienen unidas algunas especies relacionadas evolutivamente. Por otro lado la relación evolutiva de las distintas especies se ven alteradas siendo la mas representativo la del homosapiens, que al usar ClustalW sin Aligment curation se observa que es una especie menos evolucionada del el caballo.
+        Al desactivar ‘aligment curation’ la filogenia varia parcialmente, enlazando nuevas especies y variando de número de división de estos. Al compararlo por la filogenia realizada anteriormente esta varia, pero no completamente ya que se mantienen unidas algunas especies relacionadas evolutivamente. Por otro lado la relación evolutiva de las distintas especies se ven alteradas.
 
 4. Describe las diferencias entre las filogenias que has estimado: cantidad de grupos mono-fileticos, relaciones que potencialmente cambiaron, etc.
 
