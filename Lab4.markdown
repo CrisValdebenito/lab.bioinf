@@ -37,21 +37,21 @@ _____________
 ***Filogenia n°1: ProbCons, GBlocks, MrBayes, y TreeDyn***
 
 
-![filogenia 1](https://github.com/CrisValdebenito/lab.bioinf/blob/master/phylo_tree.png "Filogenia N°1")
+![filogenia 1](https://github.com/CrisValdebenito/lab.bioinf/blob/master/phylo_tree.png?raw=true "Filogenia N°1")
 
 
 ***Filogenia n°1S: ProbCons, sin Alignment curation, MrBayes, y TreeDyn***
 
-![Filogenia 1S](https://github.com/CrisValdebenito/lab.bioinf/blob/master/filo%201%20sin%20aC.png "")
+![Filogenia 1S](https://github.com/CrisValdebenito/lab.bioinf/blob/master/filo%201%20sin%20aC.png?raw=true "")
 
 
 ***Filogenia n°2: ClustalW, "Remove positions with gaps", TNT, y TreeDyn***
 
-![filogenia 2](https://github.com/CrisValdebenito/lab.bioinf/blob/master/img2.png "Filogenia N°2")
+![filogenia 2](https://github.com/CrisValdebenito/lab.bioinf/blob/master/img2.png?raw=true "Filogenia N°2")
 
 ***Filogenia n°2S: ClustalW, sin Aligment curation, TNT, y TreeDyn***
 
-![Filogenia 2S](https://github.com/CrisValdebenito/lab.bioinf/blob/master/filo%202%20sin%20AC.png "")
+![Filogenia 2S](https://github.com/CrisValdebenito/lab.bioinf/blob/master/filo%202%20sin%20AC.png?raw=true "")
 
 
 
