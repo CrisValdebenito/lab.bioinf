@@ -23,7 +23,7 @@ _____________
 ![4.4](https://cloud.githubusercontent.com/assets/28108405/26706349/af6f77ca-470a-11e7-9f2a-4f0e79d66628.JPG "")
 
 
-**Sección 2.- Modelamiento por homología de la cadena A de 3LRX con el peor templado.** En las imágenes se observa la superposición del templado target_3 con la estructura de la proteína 3LRX reportada en protein blank, se observa que hay congruencia en ciertas secciones mientras que otras la diferencias es muy visible, variando la disposición espacial de loop y de estructuras secundarias como sabanas beta y hélices alfa, determinando de esta manera que el templado no tiene mayor congruencia con la proteína originalmente reportada.
+**Sección 2.- Modelamiento por homología de la cadena A de 3LRX con el peor templado.** En las imágenes se observa la superposición del templado target_3 con la estructura de la proteína 3LRX reportada en protein blank, se observa que hay congruencia en ciertas secciones mientras que en otras la diferencias es muy visible, variando la disposición espacial de loop y de estructuras secundarias como sabanas beta y hélices alfa, determinando de esta manera que el templado no tiene mayor congruencia con la proteína originalmente reportada.
         
 ![3.1](https://cloud.githubusercontent.com/assets/28108405/26706688/49b7201a-470d-11e7-815f-ed049169c9e2.JPG "")
 
