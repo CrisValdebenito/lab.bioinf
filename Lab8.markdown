@@ -1,7 +1,7 @@
 ##            Laboratorio 08 - Modelado por homologia
 _____________
 
-#####Nombre: Cristian Valdebenito
+##### Nombre: Cristian Valdebenito
 
 
 ###  **Parte 1: Selección de templados por puntaje DOPE.**
