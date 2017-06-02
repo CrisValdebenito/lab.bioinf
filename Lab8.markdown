@@ -34,6 +34,7 @@ _____________
 ![3.4](https://cloud.githubusercontent.com/assets/28108405/26706721/70fc4916-470d-11e7-962d-1cb6ae235217.JPG "")
 
 
-##Comparación.
+###Comparación.
+
 
 Al comparar la homologia se observa que target_4 es un mejor modelo de templado debido a que no interfiere de forma abrupta en las estructuras secundarias de las proteinas. A pesar de que de igual manera interfiere en la disposición espacial del peptido, este no se ve mayoritariamente comprometido en su estructura, a diferencia del templado target_3 el cual interfiere de una manera significativa en las estructuras secundarias en general de la proteína. De esta manera se puede observar representativamente la direfencia entre un templado que posee puntaje DOPE considerado bueno dentro de los rangos con uno de una escala mayor que es considerado mas erroneo. 
