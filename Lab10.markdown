@@ -1,7 +1,7 @@
 ##            Laboratorio 10 - Análisis	de	simulación	molecular
 _____________
 
-#####Nombre: Cristian Valdebenito
+##### Nombre: Cristian Valdebenito
 
 
 ###  **Parte 1: Plugins VMD.**
