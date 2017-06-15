@@ -31,8 +31,9 @@ _____________
 
 ### **Parte 2: Estabilidad entre la proteína orexina y SUV.** 
 
-*Las orexinas, también llamadas hipocreatinas, son los nombres comunes puestos a un par de hormonas neuropéptidas excitantes que fueron simultáneamente descubiertas por dos investigadores en cerebros de rata. La orexina promueve el estado de vigilia jugando un rol importante del en la influencias metabólicas del ritmo circadiano y de la deuda de sueño para determinar si un animal debe estar dormido o despierto y activo.
-Belsombra (suvorexant, SUV), es un medicamento recetado para adultos con problemas para conciliar el sueño y o mantener el sueño, utiliza un enfoque nuevo que bloquea selectivamente los receptores de orexina, que es un neurotransmisor en el cerebro involucrado en la promoción de la vigilia, o el sistema de alerta en el cuerpo.*
+*Las orexinas, también llamadas hipocreatinas, son los nombres comunes puestos a un par de hormonas neuropéptidas excitantes que fueron simultáneamente descubiertas por dos investigadores en cerebros de rata. La orexina promueve el estado de vigilia jugando un rol importante del en la influencias metabólicas del ritmo circadiano y de la deuda de sueño para determinar si un animal debe estar dormido o despierto y activo.*
+
+*Belsombra (suvorexant, SUV), es un medicamento recetado para adultos con problemas para conciliar el sueño y o mantener el sueño, utiliza un enfoque nuevo que bloquea selectivamente los receptores de orexina, que es un neurotransmisor en el cerebro involucrado en la promoción de la vigilia, o el sistema de alerta en el cuerpo.*
 
 *  RMSD Trayectory tool.
 
@@ -87,7 +88,7 @@ Al observar el grafico observamos la estabilidad del enlace iónico entre los am
 Tras analizar la gráfica de formación de puentes de hidrógenos (Fig.4) observamos que la mayor formación de estos se presenta entre los frames 30 y 70, siendo concluyentes con lo analizado en el figura 1 en cuanto a la distancia entre el ligando y la proteína, concluyendo que a pesar de no tener puntos fluctuantes es estabilizada por otras fuerzas que mantienen su unión estable en el tiempo, siendo estas mayoritariamente fuerzas de Van der Waals, las cuales promueven la unión espontanea, no covalente y estable entre orexina y suvorexant.
 
 
-####Conclusión. 
+#### Conclusión. 
 
 *Al analizar la unión entre orexina y sovorexant, observamos que estos no poseen puntos de convergencia entre las distancias, dando a conocer que sus estructuras no están cercanamente unidas, si no que existe un espacio entre ellas. A pesar de estos tras analizar la energía de Van der waal y la energía electrostática electrostáticas en la trayectoria, se pudo determinar que estas conferían una fuerza de unión espontanea entre los frame 30 y 70 donde se producía mayor cercanía entre la proteína y el ligando. A pesar de que el proceso de unión es espontaneo, las fuerzas de Van de Waals no son fuertes, por lo que la estabilidad y la fuerza de unión es conferido por enlaces iónicos y puentes de hidrogeno.*
 
